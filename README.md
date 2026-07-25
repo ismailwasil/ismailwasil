@@ -43,9 +43,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
