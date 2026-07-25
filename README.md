@@ -28,7 +28,7 @@
 
 <div data-importer="socials" align="left">
   <a href="https://www.youtube.com/@ismailibnwasil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="45" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/ismail_ibn_wasil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
