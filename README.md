@@ -7,21 +7,21 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css logo"  />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="php logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="codeigniter logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="laravel logo"  />
 </div>
 
 ###
