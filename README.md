@@ -25,7 +25,6 @@
 </div>
 
 ###
-<hr>
 
 <div data-importer="socials" align="left">
   <a href="https://www.youtube.com/@ismailibnwasil" target="_blank">
@@ -43,6 +42,7 @@
 </div>
 
 ###
+<hr>
 
 <div data-importer="stats" align="center">
   <!-- <img src="https://raw.githubusercontent.com/ismailwasil/ismailwasil/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
